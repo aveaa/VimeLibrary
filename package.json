@@ -6,7 +6,6 @@
   "deprecated": false,
   "description": "VimeWorld API Framework",
   "homepage": "https://github.com/NidolphDevelopers/VimeLibrary#readme",
-  "license": "ISC",
   "author": "vladciphersky",
   "main": "vindex.js",
   "name": "vimelibrary",
